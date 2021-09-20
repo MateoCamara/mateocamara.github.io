@@ -1,8 +1,8 @@
-# Sample results from Variational Autoencoder
+# Sample results from our research
 
-#### Authors: M. Cámara, J.L. Blanco, J. Casajus
+#### Authors: My colleagues and me
 
-#### Abstract: The objective of the research consists in the development of a system capable of generating new step sounds from previously developed databases in order to obtain a totally new sound generation that allows an aesthetic use for any need (cinema, video games, videos in general...).
+#### Abstract: This is where abstract should be placed!
 
 ## Results
 
