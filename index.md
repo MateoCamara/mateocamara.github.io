@@ -7,5 +7,5 @@
 ## Results
 
 <audio controls="controls">
-  <source type="audio/wav" src="generated/Baqueta-ancho%2301-chunk2.wav.npy.wav">
+  <source type="audio/wav" src="github_samples/original/a1.wav">
 </audio>
