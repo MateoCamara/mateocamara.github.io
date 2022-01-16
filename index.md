@@ -1,6 +1,6 @@
 # Sample results from our research
 
-#### Authors: My colleagues and me
+#### Authors: Mateo Cámara and José Luis Blanco
 
 #### Abstract: This is where abstract should be placed!
 
