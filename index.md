@@ -65,29 +65,6 @@
             <td><b>Drumstick with rubber</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples/original/a3.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples/3dvae/a3.wav">
-                </audio>
-            </td>
-           <td>
-                <audio controls=""> 
-                    <source src="github_samples/fft/a3.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples/2dvae/a3.wav">
-                </audio>
-            </td>
-        </tr>
-        <tr>
-            <td><b>Screwdriver with metal</b></td>
-            <td>
-                <audio controls=""> 
                     <source src="github_samples/original/a4.wav">
                 </audio>
             </td>
@@ -104,6 +81,29 @@
             <td>
                 <audio controls=""> 
                     <source src="github_samples/2dvae/a4.wav">
+                </audio>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Screwdriver with metal</b></td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples/original/a3.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples/3dvae/a3.wav">
+                </audio>
+            </td>
+           <td>
+                <audio controls=""> 
+                    <source src="github_samples/fft/a3.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples/2dvae/a3.wav">
                 </audio>
             </td>
         </tr>
