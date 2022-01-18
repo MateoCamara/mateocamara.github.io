@@ -1,4 +1,4 @@
-# Sample results from our research
+# Comparison of Phase Audio Processing Methods for Variational Autoencoders
 
 #### Authors: Mateo Cámara and José Luis Blanco
 
