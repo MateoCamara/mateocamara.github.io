@@ -62,7 +62,7 @@
             </td>
         </tr>          
         <tr>
-            <td><b>Drumstick with soft wood</b></td>
+            <td><b>Drumstick with rubber</b></td>
             <td>
                 <audio controls=""> 
                     <source src="github_samples/original/a3.wav">
@@ -85,7 +85,7 @@
             </td>
         </tr>
         <tr>
-            <td><b>Drumstick with rubber</b></td>
+            <td><b>Screwdriver with metal</b></td>
             <td>
                 <audio controls=""> 
                     <source src="github_samples/original/a4.wav">
