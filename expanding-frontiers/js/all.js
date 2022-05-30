@@ -217,10 +217,12 @@ function initLantentSpaceVariableSelector(latentSpaceDimension) {
     window.addEventListener("keydown", onKeyDown, false);
     window.addEventListener("keyup", onKeyUp, false);
     // get encoder tensorflow model
-    encoderModel = await tf.loadLayersModel('https://models.seamosrealistas.com/encoder_model/model.json');
+    //encoderModel = await tf.loadLayersModel('https://models.seamosrealistas.com/encoder_model/model.json');
+    encoderModel = await tf.loadLayersModel('https://github.com/MateoCamara/mateocamara.github.io/tree/main/expanding-frontiers/models/encoder_model/model.json');
     logInfo("Loaded default encoder.")
     // // get decoder tensorflow model
-    decoderModel = await tf.loadLayersModel('https://models.seamosrealistas.com/decoder_model/model.json');
+    //decoderModel = await tf.loadLayersModel('https://models.seamosrealistas.com/decoder_model/model.json');
+    decoderModel = await tf.loadLayersModel('https://github.com/MateoCamara/mateocamara.github.io/tree/main/expanding-frontiers/models/decoder_model/model.json');
     logInfo("Loaded default decoder.")
     // Add the number of variables in latent space to html select tag items
     initLantentSpaceVariableSelector(encoderModel.outputShape[0][1]);
