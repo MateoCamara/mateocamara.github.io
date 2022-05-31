@@ -4,7 +4,7 @@ Beta version of the Audio Intellimixer application to generate sounds from the l
 
 The application can be found on the web at https://mateocamara.com/intellimixer/ . We recommend watching the following video to quickly understand how it works:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/embed/dQw4w9WgXcQ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qaBuuZhWuqA/0.jpg)](https://www.youtube.com/watch?v=qaBuuZhWuqA)
 
 It is a beta version, so there may be instabilities. We are working on improving the performance of the application. A github with the commented and structured code will be enabled to encourage the collaboration of the scientific community when the seed paper has been published. 
 
