@@ -1,93 +1,44 @@
-# Sound Map Visualizer
+# Audio Intellimixer
 
-Simple version of Freesound Explorer that can be used to visualize artibtraty maps of sounds. 
+Beta version of the Audio Intellimixer application to generate sounds from the latent space sampling of a VAE directly hosted in the browser.
 
-Checkout and double click `index.html` to open the interface. Use the input box to set query terms to search in Freesound or type the URL to a JSON file with arbitrary data to be loaded.
+The application can be found on the web at https://mateocamara.com/intellimixer/ . We recommend watching the following video to quickly understand how it works:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### How to provide data via JSON file
+It is a beta version, so there may be instabilities. We are working on improving the performance of the application. A github with the commented and structured code will be enabled to encourage the collaboration of the scientific community when the seed paper has been published. 
 
-A `example_data.json` file is provided that you can use as a template and to test the JSON load functionality. To display the contents of that file in the map, just type `example_data.json` in the input box and press "Go!".
+Here is a small written user guide (equivalent to the video) for a very simple usage. Advanced uses of the application are described in detail in the seed paper.
 
-To provide other data you need to create a JSON file that has the same structure as the one shown in `example_data.json`. This is basically a dictionary with one single entry `results` which contains a list of sounds to be displayed. Each sound must contain the following attributes:
+#### Workflow
 
- * `id`: a unique ID for the sound.
- * `url`: URL to a web page where the sound is displayed (can be fake as well).
- * `name`: name/title given to the sound.
- * `username`: author of the sound.
- * `audio`: URL to an audio file that can be used to play this sound. Note that the example data file has URLs that point to Freesound, but this can also be the URL to a local file. For working with local files the optimal solution is to add an `audio_files` folder in this same repository and put all the sounds inside. Then in the `audio` field of each sound in your `results` list you set the relative path to the audio file which will be something like `audio_files/filename.mp3`.
- * `image`: URL to an image to be displayed when the sound is selected. Can be left blank and no image will be shown. Can be path to a local file (works same as in `audio` field).
- * `analysis`: dictionary with the feature values that will be used to compute the map. The features that should be here depend on the different map layouts that you want to be supported (see below).
+The application initializes the GUI while downloading the default encoder and decoder models. When they are loaded, the user is allowed to write a query to Freesound. As many sounds as the user requests are obtained by HTTP request. These files are preprocessed to convert them into spectrograms. These signals are transferred to the encoder, which may optionally have been replaced through the GUI by a user's personal model. The audios are encoded in a latent space of D variables. Two of these dimensions are displayed in the GUI waiting for the user to click on an intermediate value. This value is registered in the latent space as an Euclidean distance between all source audios downloaded from Freesound. The sampled point is fed into the decoder, which returns a new spectrogram. This is post-processed to achieve an audible waveform. It is then sent to the GUI for user playback and download.
 
-#### Changing available map layouts
+#### Layout
 
-To allow different map layouts you must edit the HTML `select` element in `index.html` (starting at line 15 aprox). You can add new options there so that features in axis can be changed.
+On the right side of the application there are a series of buttons and inputs for the user to modify. Each of the interfaces sorted from top to bottom are:
 
-To add new layout options add new lines with the form:
-```
-<option value="descriptors_to_be_used">Option display name</option>
-```
+Text input to identify the Freesound API keyword. Next to the input box, there is a "go" button to launch the HTTP request. Footstep is the default keyword.
 
-The `descriptors_to_be_used` part should start with either:
+Drop-down menu to select the variable to place on the X-axis. This menu is empty until the autoencoder is loaded. At that point, the one-dimensional vector of size D of the latent space can be known. The drop-down menu is filled with D values for the user to choose from. By 
+default, dimension 1 is chosen.
 
- * `xy&`: to add an option with a map in which one feature is be assigned in each dimension.
- * `tsne&`: to add an option in which a self-organizing map will be computed from a given multi-dimensional feature.
+Drop-down menu to select the variable to place on the Y-axis. Identical performance as in the previous case. By default, dimension 2 is chosen.
 
-If using the `xy&` map type, the two features to be used in each of the axis must be indicated after `xy&` and separated by "&". For example, use `xy&sfx.duration&lowlevel.pitch.mean`
-for setting duration in x axis (horizontal) and pitch mean in y axis (vertical).
+Buttons to upload an autoencoder. To use a personal VAE, users can upload multiple files, being essential the JSON file defining the architecture and the binary files defining the network weights.
 
-In `tsne&` mode only 1 feature needs to be indicated. It is expected to be a multi-dimensional feature so
-that tsne can compute a dimensionality reduction. For example, use `tsne&lowlevel.mfcc.mean` to get a map arranged by similarity according to MFCCs.
+Non-interactive dialog that identifies the status of the application. In this section there is a loading bar with a representative message so that the user can check the state of the execution.
 
-For the layouts to work, descriptors data need to be present in the Freesound response or in the loaded JSON file. The different descriptors available for queries to Freesound can be seen here: `https://freesound.org/apiv2/descriptors/`. When working with a JSON file, any descriptors will work as long as these are included in the `analysis` dict for each sound. Descriptors can be added in a nested structure, and their full name must include all the levels of the structure separated by periods. For example, given the following analysis structure:
+#### User interaction
 
-```
-"analysis": {
-    "lowlevel": {
-        "average_loudness": 0.9672642155158363,
-        "pitch": {
-            "mean": 571.4835995224398
-        },
-        "mfcc": {
-            "mean": [
-                -825.6259832507296,
-                131.78120127431026,
-                -31.75835864543137,
-                26.313526350014126,
-                -38.06251265399024,
-                -19.53786147045546,
-                -12.369042117865106,
-                10.53405565043513,
-                28.16895815943852,
-                55.91404974526349,
-                53.34956028357271,
-                34.719174782856854,
-                5.941316522273627
-            ]
-        }
-    },
-    "sfx": {
-        "duration": 0.3396582096750846,
-        "logattacktime": {
-            "mean": -1.2876480550527212
-        },
-        "tristimulus": {
-            "mean": [
-                0.6642523322420417,
-                0.3272743438766559,
-                0.008473205246176873
-            ]
-        }
-    }
-}
-```
-the full name to be used for MFCCs should be `lowlevel.mfcc.mean`, while the name for duration `sfx.duration`.
+When the application has loaded the freesound audios, the user can click anywhere in the latent space. A new audio will be generated from the latent space sampling. This sound can be downloaded to the local storage.
+
 
 
 #### Notes on running this in different browsers
 
-Loading local JSON files might be problematic in some browsers due to cross origin requests restrictions. After some quick tests we've observed that in Firefox the JSON load feature works fine, but that for it to work in Chrome and Safari you'll need to run a trick and create a simple local HTTP server that serves the `index.html` file instead of opening it directly. To do that open a temrinal to the repsitory folder and simply run:
-```
-python -m SimpleHTTPServer 8000
-```
-Then point your browser at `http://localhost:8000` and all will work just fine.
+The application has been tested using Google Chrome. It has not been tested in other browsers. In case you detect any inconsistencies, please check your browser. If you are still testing in Chrome and it still gives problems, please refer to the video and contact the developers to fix it.
+
+#### Contact
+
+Any questions, problems, congratulations or comments, please send an email to mateoDOTcamaraATupmDOTes.
