@@ -152,27 +152,27 @@
             <td><b>STFT + Griffin-Lim</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/a1.wav">
+                    <source src="github_samples2/fft_halved_values/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/a2.wav">
+                    <source src="github_samples2/fft_halved_values/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/a3.wav">
+                    <source src="github_samples2/fft_halved_values/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/a4.wav">
+                    <source src="github_samples2/fft_halved_values/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/a5.wav">
+                    <source src="github_samples2/fft_halved_values/a5.wav">
                 </audio>
             </td>
             <td>
@@ -182,12 +182,12 @@
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/a7.wav">
+                    <source src="github_samples2/fft_halved_values/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/a8.wav">
+                    <source src="github_samples2/fft_halved_values/a8.wav">
                 </audio>
             </td>
         </tr>
@@ -256,7 +256,46 @@
             <td><b>Original</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/a<tr>
+                    <source src="github_samples2/original/a1.wav">
+                </audio>
+            </td>
+           <td>
+                <audio controls=""> 
+                    <source src="github_samples2/original/a2.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples2/original/a3.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples2/original/a4.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples2/original/a5.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples2/original/a6.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples2/original/a7.wav">
+                </audio>
+            </td>
+            <td>
+                <audio controls=""> 
+                    <source src="github_samples2/original/a8.wav">
+                </audio>
+            </td>
+        </tr>
+        <tr>
             <td><b>2D-VAE with MCLT</b></td>
             <td>
                 <audio controls=""> 
