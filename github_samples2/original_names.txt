@@ -1,0 +1,8 @@
+Mazo-goma#04-chunk28.wav.npy
+Mazo-goma#04-chunk16.wav.npy
+Mazo-goma#02-chunk4.wav.npy
+Mazo-goma#01-chunk6.wav.npy
+Baqueta-ancho#04-chunk27.wav.npy
+Baqueta-ancho#04-chunk15.wav.npy
+Baqueta-ancho#02-chunk1.wav.npy
+Baqueta-ancho#01-chunk2.wav.npy

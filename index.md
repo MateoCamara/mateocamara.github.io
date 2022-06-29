@@ -28,37 +28,37 @@
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#02-chunk1.wav">
+                    <source src="github_samples2/original/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#04-chunk15.wav">
+                    <source src="github_samples2/original/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#04-chunk27.wav">
+                    <source src="github_samples2/original/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#01-chunk6.wav">
+                    <source src="github_samples2/original/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#02-chunk4.wav">
+                    <source src="github_samples2/original/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#04-chunk6.wav">
+                    <source src="github_samples2/original/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#04-chunk16.wav">
+                    <source src="github_samples2/original/a8.wav">
                 </audio>
             </td>
         </tr>
@@ -66,42 +66,42 @@
             <td><b>2D-VAE with STFT</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_2D/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/fft_2D/a8.wav">
                 </audio>
             </td>
         </tr>
@@ -109,42 +109,42 @@
             <td><b>3D-VAE with STFT</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_3D/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/fft_3D/a8.wav">
                 </audio>
             </td>
         </tr>         
@@ -152,42 +152,42 @@
             <td><b>STFT + Griffin-Lim</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_absolute_values/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/fft_absolute_values/a8.wav">
                 </audio>
             </td>
         </tr>
@@ -195,42 +195,42 @@
             <td><b>CVAE with STFT</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a8.wav">
                 </audio>
             </td>
         </tr>
@@ -256,85 +256,46 @@
             <td><b>Original</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#01-chunk2.wav">
-                </audio>
-            </td>
-           <td>
-                <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#02-chunk1.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#04-chunk15.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#04-chunk27.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#01-chunk6.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#02-chunk4.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#04-chunk6.wav">
-                </audio>
-            </td>
-            <td>
-                <audio controls=""> 
-                    <source src="github_samples2/original/Mazo-goma#04-chunk16.wav">
-                </audio>
-            </td>
-        </tr>
-        <tr>
+                    <source src="github_samples2/original/a<tr>
             <td><b>2D-VAE with MCLT</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_2D/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/mclt_2D/a8.wav">
                 </audio>
             </td>
         </tr>
@@ -342,42 +303,42 @@
             <td><b>3D-VAE with MCLT</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_3D/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/mclt_3D/a8.wav">
                 </audio>
             </td>
         </tr>         
@@ -385,42 +346,42 @@
             <td><b>MCLT + Griffin-Lim</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_absolute_values_halved/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/mclt_absolute_values_halved/a8.wav">
                 </audio>
             </td>
         </tr>
@@ -428,42 +389,42 @@
             <td><b>CVAE with MCLT</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_complex_value_halved/Baqueta-ancho#01-chunk2.wav.npy.wav">
+                    <source src="github_samples2/mclt_complex_value_halved/a1.wav">
                 </audio>
             </td>
            <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_complex_value_halved/Baqueta-ancho#02-chunk1.wav.npy.wav">
+                    <source src="github_samples2/mclt_complex_value_halved/a2.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/fft_complex_values_halved/Baqueta-ancho#04-chunk15.wav.npy.wav">
+                    <source src="github_samples2/fft_complex_values_halved/a3.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_complex_value_halved/Baqueta-ancho#04-chunk27.wav.npy.wav">
+                    <source src="github_samples2/mclt_complex_value_halved/a4.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_complex_value_halved/Mazo-goma#01-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_complex_value_halved/a5.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_complex_value_halved/Mazo-goma#02-chunk4.wav.npy.wav">
+                    <source src="github_samples2/mclt_complex_value_halved/a6.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_complex_value_halved/Mazo-goma#04-chunk6.wav.npy.wav">
+                    <source src="github_samples2/mclt_complex_value_halved/a7.wav">
                 </audio>
             </td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/mclt_complex_value_halved/Mazo-goma#04-chunk16.wav.npy.wav">
+                    <source src="github_samples2/mclt_complex_value_halved/a8.wav">
                 </audio>
             </td>
         </tr>
