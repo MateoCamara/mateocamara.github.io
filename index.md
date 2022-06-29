@@ -23,7 +23,7 @@
             <td><b>Original</b></td>
             <td>
                 <audio controls=""> 
-                    <source src="github_samples2/original/Baqueta-ancho#01-chunk2.wav">
+                    <source src="github_samples2/original/a1.wav">
                 </audio>
             </td>
            <td>
