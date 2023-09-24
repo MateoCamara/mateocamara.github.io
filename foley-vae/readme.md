@@ -82,7 +82,7 @@
                 </td>
                 <td>
                     <audio controls="">
-                        <source src="github_samples3/reconstruido/SNEAK_GRATE_07-07_WALK_KMR81.R.wav">
+                        <source src="github_samples3/reconstruido/SNEAK_GRATE_07-07_WALK_KMR81.L.wav">
                     </audio>
                 </td>
             </tr>
@@ -110,7 +110,7 @@
                 </td>
                 <td>
                     <audio controls="">
-                        <source src="github_samples3/reconstruido/FLAT_MARBLE_08-06_WALK_416.L.wav">
+                        <source src="github_samples3/reconstruido/FLAT_MARBLE_08-06_WALK_416.R.wav">
                     </audio>
                 </td>
             </tr>
