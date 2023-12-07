@@ -12,131 +12,129 @@ We employed black-box and grey-box optimization techniques on the parameters of 
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p1\a_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p1\a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p1\a_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p1\a_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p1/a_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p1/a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p1/a_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p1/a_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
+
 
 ### p2
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p2\e_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p2\e_f_segment_length_2400_penalization_8_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p2\e_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p2\e_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p2/e_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p2/e_f_segment_length_2400_penalization_8_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p2/e_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p2/e_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 
 ### p3
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p3\i_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p3\i_f_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p3\i_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p3\i_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
-
+| <audio controls=""><source src="preguntas_test/p3/i_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p3/i_f_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p3/i_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p3/i_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p4
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p4\o_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p4\o_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p4\o_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p4\o_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p4/o_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p4/o_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p4/o_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p4/o_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p5
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p5\u_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p5\u_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p5\u_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p5\u_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p5/u_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p5/u_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p5/u_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p5/u_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p6
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p6\aeiou_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p6\aeiou_segment_length_1200_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p6\aeiou_segment_length_1200_penalization_8_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p6\aeiou_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p6/aeiou_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p6/aeiou_segment_length_1200_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p6/aeiou_segment_length_1200_penalization_8_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p6/aeiou_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p7
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p7\eiu_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p7\eiu_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p7\eiu_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p7\eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p7/eiu_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p7/eiu_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p7/eiu_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p7/eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p8
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p8\roy_segment_length_1200_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p8\roy_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p8\roy_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p8\roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p8/roy_segment_length_1200_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p8/roy_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p8/roy_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p8/roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p9
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 |
 | --- | --- | --- | --- |
-| [Listen](preguntas_test\p9\roy_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p9\roy_f_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p9\roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p9\roy_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
-
+| <audio controls=""><source src="preguntas_test/p9/roy_f_segment_length_2400_penalization_0_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p9/roy_f_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p9/roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p9/roy_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p10
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p10\a.wav) | [Listen](preguntas_test\p10\a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p10\a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p10\a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p10\a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p10/a.wav"></audio> | <audio controls=""><source src="preguntas_test/p10/a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p10/a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p10/a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p10/a_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p11
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p11\a_f.wav) | [Listen](preguntas_test\p11\a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p11\a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p11\a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p11\a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p11/a_f.wav"></audio> | <audio controls=""><source src="preguntas_test/p11/a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p11/a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p11/a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p11/a_f_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p12
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p12\aio.wav) | [Listen](preguntas_test\p12\aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p12\aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p12\aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p12\aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p12/aio.wav"></audio> | <audio controls=""><source src="preguntas_test/p12/aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p12/aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p12/aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p12/aio_segment_length_2400_penalization_1_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p13
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p13\ao.wav) | [Listen](preguntas_test\p13\ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p13\ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p13\ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p13\ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p13/ao.wav"></audio> | <audio controls=""><source src="preguntas_test/p13/ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p13/ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p13/ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p13/ao_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p14
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p14\e_f.wav) | [Listen](preguntas_test\p14\e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p14\e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p14\e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p14\e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p14/e_f.wav"></audio> | <audio controls=""><source src="preguntas_test/p14/e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p14/e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p14/e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p14/e_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p15
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p15\roy_f.wav) | [Listen](preguntas_test\p15\roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p15\roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p15\roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p15\roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p15/roy_f.wav"></audio> | <audio controls=""><source src="preguntas_test/p15/roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p15/roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p15/roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p15/roy_f_segment_length_2400_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p16
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p16\roy.wav) | [Listen](preguntas_test\p16\roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p16\roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p16\roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p16\roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p16/roy.wav"></audio> | <audio controls=""><source src="preguntas_test/p16/roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p16/roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p16/roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p16/roy_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p17
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p17\yawn1.wav) | [Listen](preguntas_test\p17\yawn1_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p17\yawn1_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p17\yawn1_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) | [Listen](preguntas_test\p17\yawn1_segment_length_2400_penalization_4_penalize_frequency_1_pyin_False_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p17/yawn1.wav"></audio> | <audio controls=""><source src="preguntas_test/p17/yawn1_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p17/yawn1_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p17/yawn1_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p17/yawn1_segment_length_2400_penalization_4_penalize_frequency_1_pyin_False_nn_False_fft_False.wav"></audio> |
 
 ### p18
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p18\yawn2.wav) | [Listen](preguntas_test\p18\yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p18\yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p18\yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p18\yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p18/yawn2.wav"></audio> | <audio controls=""><source src="preguntas_test/p18/yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p18/yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p18/yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p18/yawn2_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p19
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p19\yawn3.wav) | [Listen](preguntas_test\p19\yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p19\yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p19\yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p19\yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
-
+| <audio controls=""><source src="preguntas_test/p19/yawn3.wav"></audio> | <audio controls=""><source src="preguntas_test/p19/yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p19/yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p19/yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p19/yawn3_segment_length_2400_penalization_8_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p20
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p20\eiu.wav) | [Listen](preguntas_test\p20\eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p20\eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p20\eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p20\eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p20/eiu.wav"></audio> | <audio controls=""><source src="preguntas_test/p20/eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p20/eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p20/eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p20/eiu_segment_length_2400_penalization_4_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ### p21
 
 | Audio 1 | Audio 2 | Audio 3 | Audio 4 | Audio 5 |
 | --- | --- | --- | --- | --- |
-| [Listen](preguntas_test\p21\oioioi.wav) | [Listen](preguntas_test\p21\oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav) | [Listen](preguntas_test\p21\oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav) | [Listen](preguntas_test\p21\oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav) | [Listen](preguntas_test\p21\oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav) |
+| <audio controls=""><source src="preguntas_test/p21/oioioi.wav"></audio> | <audio controls=""><source src="preguntas_test/p21/oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p21/oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_False_fft_True.wav"></audio> | <audio controls=""><source src="preguntas_test/p21/oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_False_nn_True_fft_False.wav"></audio> | <audio controls=""><source src="preguntas_test/p21/oioioi_segment_length_1200_penalization_2_penalize_frequency_0_pyin_True_nn_False_fft_False.wav"></audio> |
 
 ---
 
@@ -144,4 +142,4 @@ We employed black-box and grey-box optimization techniques on the parameters of 
 
 If you use this project in your research, please include the following citation:
 
-[Your citation here...]
+[Once published!]
