@@ -26,6 +26,12 @@ This will render as a formatted code block in the Markdown file:
 
 [The questionnaire is available here](https://mateocamara.github.io/pink-trombone/questionnaire/)
 
+## Pink Trombone online demo
+
+A demo with all the yawns and some of the vowels is available online. This is just a tiny demonstration; all the audio samples used in the study are presented below.
+
+[Link to the interactive non-exhaustive demo](https://mateocamara.com/pink-trombone/)
+
 ## Audio Samples
 
 ### /A/ sound (original files not presented in test)
