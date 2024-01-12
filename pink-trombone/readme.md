@@ -24,6 +24,8 @@ This will render as a formatted code block in the Markdown file:
 
 [Link to Go Listen app](https://www.mateocamara.com/pruebas-subjetivas)
 
+[The questionnaire is available here](https://mateocamara.github.io/pink-trombone/questionnaire/)
+
 ## Audio Samples
 
 ### /A/ sound (original files not presented in test)
