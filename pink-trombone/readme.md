@@ -1,10 +1,14 @@
-# Parameters optimization for speech physical synthesizers: A case study for the Pink Trombone
+# Parameter Optimization for a Physical Model of the Vocal System
 
 ## Authors: Mateo Cámara, José Luis Blanco and Joshua D. Reiss
 
 ## Abstract
 
 We evaluated black-box and grey-box optimization techniques on the parameters of a simplified physical synthesizer, the Pink Trombone, to emulate both male and female vocal tract characteristics for vocalic and non-speech sounds. Leveraging prior research, we utilized a genetic optimizer and Mel-spectrogram representations to infer the articulatory parameters from human recordings through a direct spectral comparison with the synthesizer's output. Optimization was carried out over temporal windows, introducing variations to the state-of-the-art objective metric to ensure temporal coherence across the synthesized signal. We also investigated grey-box approaches, utilizing algorithms such as pYIN for fundamental frequency prediction and developing a ResNet-based neural network as a foundation for the optimization process. Subjective tests validated our methodology and confirmed that the synthesizer effectively mimics human vocal sounds. Results demonstrate a marked superiority over previous state-of-the-art techniques, proving its practical utility and accuracy in real-world conditions. Moreover, these subjective evaluations allowed us to fine-tune the established perceptual metric ViSQOL, providing a calibrated tool for future research to assess auditory metrics in the domain of physical synthesizer modeling.
+
+## Video
+
+[![Demo Video](https://img.youtube.com/vi/Nvkuxy711YY/hqdefault.jpg)](https://youtu.be/Nvkuxy711YY)
 
 ## ViSQOL Pink Trombone SVR Model
 
