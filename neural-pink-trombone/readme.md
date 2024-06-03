@@ -12,6 +12,9 @@ The primary goal of our project was to demonstrate that these neural architectur
 
 ## Additional information
 
+![Image showing tongue position during the utterance of /ieaou/. This sound is particularly interesting because only one articulator changes with each shift, allowing clear observation of tongue position at all times. Physical boundaries are marked by the purple line.](imgs\3d.png)
+
+![Histogram of the VISQOL results. This visualization is equivalent to Figure 2 in the paper.](imgs\histogram.png)
 
 ## Audio Samples
 
