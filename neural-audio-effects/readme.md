@@ -18,6 +18,8 @@ This repository provides a comprehensive list of papers and datasets. It is desi
 
 The link to the repository is: [neural-audio-effects-review](https://github.com/MateoCamara/neural-audio-effects-review) 
 
+It will be public once published the paper.
+
 ## Form for adding missed articles
 
 If you notice a missing article in the review before July 30, 2024, please report it so we can initiate a change request.
