@@ -88,4 +88,9 @@ Histogram of the VISQOL results. This visualization is equivalent to Figure 2 in
 
 If you use this project in your research, please include the following citation:
 
-[Once published! :)]
+@article{camara2024decoding,
+  title={Decoding Vocal Articulations from Acoustic Latent Representations},
+  author={C{\'a}mara, Mateo and Marcos, Fernando and Blanco, Jos{\'e} Luis},
+  journal={arXiv preprint arXiv:2406.14379},
+  year={2024}
+}
