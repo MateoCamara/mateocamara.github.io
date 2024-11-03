@@ -2,7 +2,7 @@
 
 Beta version of the Audio Intellimixer application to generate sounds from the latent space sampling of a VAE directly hosted in the browser.
 
-The application can be found on the web at https://mateocamara.com/intellimixer/ . We recommend watching the following video to quickly understand how it works:
+The application can be found on the web at [DEMO WEB](https://mateocamara.com/demo-intellimixer/). We recommend watching the following video to quickly understand how it works:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qaBuuZhWuqA/0.jpg)](https://www.youtube.com/watch?v=qaBuuZhWuqA)
 
